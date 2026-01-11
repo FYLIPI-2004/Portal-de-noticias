@@ -52,6 +52,7 @@ max-width: 100%;
 
 main {
   margin-top: 40;
+  gap: 80px;
 }
 
 .content-tag {
