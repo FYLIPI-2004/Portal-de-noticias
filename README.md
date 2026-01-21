@@ -16,7 +16,7 @@ Um portal de notícias, focado na área de tech com informações sobre as notí
 
 ### Screenshot
 
-![Final Project](final-project-screenshot.png)
+![Final Project](final_project_screenshot.png)
 
 ### 🔗 Links
 
