@@ -1,7 +1,7 @@
 
 # Portal de Notícias - Rocket Seat
 
-Um portal de notícias, focado na área de tech com informações sobre as notícias dispostas de diversas maneiras, seções para ajudar na navegação!
+Um portal de notícias, focado na área de tech sendo as notícias dispostas de diversas maneiras, seções para ajudar na navegação!
 
 ## Sumário:
 - [Geral](#geral)
